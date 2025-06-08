@@ -1,6 +1,6 @@
-# Conway's Game of Life
+# Game of Life
 
-这是一个使用 Qt 框架实现的康威生命游戏(Conway's Game of Life)。
+这是一个使用 Qt 框架实现的细胞生命游戏(Game of Life)。
 
 ## 功能特点
 
